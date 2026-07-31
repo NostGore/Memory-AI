@@ -1,4 +1,4 @@
-# AI Chat Interface
+# Memory AI Interface
 
 Interfaz de chat AI universal y personalizable. Compatible con múltiples proveedores de inteligencia artificial.
 
