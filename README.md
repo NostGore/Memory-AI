@@ -29,7 +29,7 @@ Interfaz de chat AI universal y personalizable. Compatible con múltiples provee
 ## Estructura del Proyecto
 
 ```
-ai-chat/
+Memory-AI/
 ├── index.html      # Interfaz principal (HTML)
 ├── style.css       # Estilos CSS
 ├── script.js       # Lógica JavaScript
@@ -597,7 +597,7 @@ Universal and customizable AI chat interface. Compatible with multiple artificia
 ## Project Structure
 
 ```
-ai-chat/
+Memory-AI/
 ├── index.html      # Main interface (HTML)
 ├── style.css       # CSS styles
 ├── script.js       # JavaScript logic
